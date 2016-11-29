@@ -1,4 +1,4 @@
-# johnDoeApps
+# johnDoeRepo
 <i>Proof of concept applications</i>
 <br />
 <h3>Test Project(s):</h3>
